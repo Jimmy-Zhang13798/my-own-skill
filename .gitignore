@@ -1,0 +1,9 @@
+# Only track skills listed here; everything else in ~/.claude/skills stays local.
+/*
+!/.gitignore
+!/README.md
+!/delete-conversation/
+
+__pycache__/
+*.pyc
+.DS_Store
